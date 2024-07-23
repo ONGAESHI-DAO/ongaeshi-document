@@ -1,0 +1,33 @@
+# Table of contents
+
+* [Overview](README.md)
+* [Vision & Mission](vision-and-mission.md)
+* [Ecosystem](ecosystem.md)
+* [Key Stakeholders](key-stakeholders.md)
+* [Key Tools](key-tools.md)
+* [System Overview](system-overview/README.md)
+  * [System Diagram](system-overview/system-diagram/README.md)
+    * [Smart Contract Diagram](system-overview/system-diagram/smart-contract-diagram.md)
+    * [Infrastructure Diagram](system-overview/system-diagram/infrastructure-diagram.md)
+  * [Smart Contract](system-overview/smart-contract/README.md)
+    * [Course Token (ERC 721)](system-overview/smart-contract/course-token-erc-721.md)
+    * [Course Token Factory](system-overview/smart-contract/course-token-factory.md)
+    * [Course Token Event](system-overview/smart-contract/course-token-event.md)
+    * [Talent Match](system-overview/smart-contract/talent-match.md)
+    * [Deployed Smart Contract](system-overview/smart-contract/deployed-smart-contract.md)
+    * [Setting Up Environment](system-overview/smart-contract/setting-up-environment.md)
+  * [Public API](system-overview/public-api/README.md)
+    * [NFT API](system-overview/public-api/nft-api/README.md)
+      * [View NFT Collection](system-overview/public-api/nft-api/view-nft-collection.md)
+      * [View NFT Metadata](system-overview/public-api/nft-api/view-nft-metadata.md)
+    * [Talent](system-overview/public-api/talent/README.md)
+      * [Request to Borrow NFT](system-overview/public-api/talent/request-to-borrow-nft.md)
+    * [Sponsor](system-overview/public-api/sponsor/README.md)
+      * [Accept Talent Request](system-overview/public-api/sponsor/accept-talent-request.md)
+      * [Reject Talent Request](system-overview/public-api/sponsor/reject-talent-request.md)
+    * [Loan Details](system-overview/public-api/loan-details.md)
+
+## Other
+
+* [Audit](other/audit.md)
+* [How To Contribute](other/how-to-contribute.md)

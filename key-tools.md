@@ -30,7 +30,7 @@ A Fungible Token representing the right to participate in ONGAESHI governance. I
 
 </div>
 
-An AI-powered 360-degree human competency assessment tool developed by Institution for a Global Society Corporation. Used globally, including at Harvard Business School, it allows SBT to record reliable talent and impact evaluations.
+An AI-powered 360-degree human competency assessment tool developed by Institution for a Global Society Corporation. Used globally, including selected as a Harvard Business School use case, it allows SBT to record reliable talent and impact evaluations.
 
 GROW360: [https://www.grow-360.com/](https://www.grow-360.com/)
 
